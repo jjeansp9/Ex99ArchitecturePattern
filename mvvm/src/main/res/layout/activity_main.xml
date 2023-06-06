@@ -5,7 +5,7 @@
 
     <!--  1. 레이아웃뷰와 바인딩될 데이터를 명칭과 클래스를 지정  -->
     <data>
-        <!--    이 레이아웃파일 안에서 데이터를 가지고 있을 변수를 지정    -->
+        <!--    이 레이아웃파일 안에서 데이터를 가지고 있을 변수를 지정.    -->
         <import type="com.jspstudio.mvvm.viewmodel.ItemViewModel"/>
         <variable
             name="viewModel"
