@@ -13,7 +13,7 @@
 
     </data>
 
-    <!--  2. 레이아웃뷰 : 기존에 root 로 만들었던 뷰  -->
+    <!--  2. 레이아웃뷰 : 기존에 root 로 만들었던 뷰.  -->
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
